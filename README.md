@@ -1,6 +1,6 @@
 # Justin Pille
 I live in St. Paul, Minnesota.
-
+[Contact me.](https://justinpille.github.io/contact/)
 
 
 ## Education
@@ -21,6 +21,7 @@ I live in St. Paul, Minnesota.
 - Ensure A11y as needed
 - Facilitate translation as needed
 - Configure location reporting for use with bug tracking (Jira)
+- Use SVN for version control
 
 ## Work Samples
 
