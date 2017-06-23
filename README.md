@@ -32,6 +32,6 @@ I live in St. Paul, Minnesota.
 - Language-based UI
 - Small, focused tools
 - Collaborative workflows
-- Cross-functinal teams
+- Cross-functional teams
 - Asynchronous and functional programming
 - New/Upcoming CSS features: Flexbox, Grid, and Custom Properties
