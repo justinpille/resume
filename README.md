@@ -1,7 +1,7 @@
 # Justin Pille
 I live in St. Paul, Minnesota.
 
-My email follows this format: <b>jane.doe@gmail.com</b>. Use my name though.
+My email follows this format: <b>jane.doe@gmail.com</b>. Use my name instead of Jane's.
 
 
 ## Education
