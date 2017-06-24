@@ -1,6 +1,7 @@
 # Justin Pille
 I live in St. Paul, Minnesota.
-[Contact me.](https://justinpille.github.io/contact/)
+
+My email follows this format: <b>jane.doe@gmail.com</b>. Use my name though.
 
 
 ## Education
