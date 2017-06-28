@@ -36,3 +36,7 @@ My email follows this format: <b>jane.doe@gmail.com</b>. Use my name instead of 
 - Cross-functional teams
 - Asynchronous and functional programming
 - New/Upcoming CSS features: Flexbox, Grid, and Custom Properties
+- [Brutalist Web Design](http://brutalistwebsites.com/)
+- Atomic CSS
+- RxJS
+- Elm
