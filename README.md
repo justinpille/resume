@@ -10,18 +10,18 @@ My email follows this format: <b>jane.doe@gmail.com</b>. Use my name instead of 
 
 - Studied of a broad range of design topics with a focus on architecture
 - Obtained a [Bachelor of Design in Architecture](http://arch.design.umn.edu/programs/bda/about.html)
-
+- Obtained a <a href="http://arch.design.umn.edu/programs/bda/about.html" target="_blank">Bachelor of Design in Architecture</a>
 
 ## Work History
 
-**2012 - Present:** [Allen Interactions](http://www.alleninteractions.com/elearning-examples)
+**2012 - Present:** <a href="https://www.youtube.com/watch?v=n3P-pUeo5YI&feature=youtu.be" target="_blank">Allen Interactions</a>
 
 - Build client-side interactive multimedia, using ES6 and ReactJS
 - Maintain a Webpack build system
-- Package useful modules for reuse, especially [HOC](https://facebook.github.io/react/docs/higher-order-components.html)'s
+- Package useful modules for reuse, especially <a href="https://facebook.github.io/react/docs/higher-order-components.html" target="_blank">HOC</a>'s
 - Ensure A11y as needed
 - Facilitate translation as needed
-- Configure location reporting for use with bug tracking (Jira)
+- Integrate Jira for feedback and bug tracking
 - Use SVN for version control
 
 ## Work Samples
@@ -36,7 +36,7 @@ My email follows this format: <b>jane.doe@gmail.com</b>. Use my name instead of 
 - Cross-functional teams
 - Asynchronous and functional programming
 - New/Upcoming CSS features: Flexbox, Grid, and Custom Properties
-- [Brutalist Web Design](http://brutalistwebsites.com/)
+- <a href="http://brutalistwebsites.com/" target="_blank">Brutalist Web Design</a>
 - Atomic CSS
 - RxJS
 - Elm
