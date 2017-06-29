@@ -36,3 +36,4 @@ My email follows this format: <b>jane.doe@gmail.com</b>. Use my name instead of 
 - Atomic CSS
 - RxJS
 - Elm
+- Agile Workflows
