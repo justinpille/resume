@@ -29,13 +29,10 @@ My email follows this format: <b>jane.doe@gmail.com</b>. Use my name instead of 
 
 ## Professional Interests
 
-- Language-based UI
 - Small, focused tools
-- Collaborative workflows
-- Cross-functional teams
+- Language-based UI (e.g., chatbots)
 - Asynchronous and functional programming
 - New/Upcoming CSS features: Flexbox, Grid, and Custom Properties
-- <a href="http://brutalistwebsites.com/" target="_blank">Brutalist Web Design</a>
 - Atomic CSS
 - RxJS
 - Elm
