@@ -9,7 +9,6 @@ My email follows this format: <b>jane.doe@gmail.com</b>. Use my name instead of 
 **2008-2011:** University of Minnesota Design School
 
 - Studied of a broad range of design topics with a focus on architecture
-- Obtained a [Bachelor of Design in Architecture](http://arch.design.umn.edu/programs/bda/about.html)
 - Obtained a <a href="http://arch.design.umn.edu/programs/bda/about.html" target="_blank">Bachelor of Design in Architecture</a>
 
 ## Work History
