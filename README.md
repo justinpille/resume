@@ -30,10 +30,9 @@ My email follows this format: <b>jane.doe@gmail.com</b>. Use my name instead of 
 ## Professional Interests
 
 - Small, focused tools
-- Language-based UI (e.g., chatbots)
+- Language-based UI
 - Asynchronous and functional programming
-- New/Upcoming CSS features: Flexbox, Grid, and Custom Properties
 - Atomic CSS
+- Flexbox, Grid, and Custom Properties
 - RxJS
 - Elm
-- Agile Workflows
